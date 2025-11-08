@@ -70,9 +70,9 @@ These insights can help Dmart optimize inventory, marketing, and sales strategie
 
 ```bash
 git clone https://github.com/vedikalohiya/Dmart-Analysis.git
-
+```
 2. Install required libraries (if not already installed):
-
+```bash
 pip install pandas matplotlib seaborn
-
+```
 3. Open the notebooks in Jupyter Notebook to explore the analysis.
