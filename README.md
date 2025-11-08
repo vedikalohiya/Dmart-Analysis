@@ -49,7 +49,7 @@ Files included:
 
 ---
 
-##Conclusion
+## Conclusion
 
 This project provides insights into Dmart sales patterns, including:
 
